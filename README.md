@@ -70,6 +70,7 @@ Answer: The target variable for the model is the binary IS_SUCCESSFUL column, in
 What variable(s) are the features for your model?
 
 Answer:The feature variables include all other columns that provide information about the donations and the organizations.
+![image](https://github.com/user-attachments/assets/852dd9dd-1049-4ff2-a07e-2b77fd8cfc04)
 
 
 What variable(s) should be removed from the input data because they are neither targets nor features?
@@ -91,6 +92,7 @@ o	Second hidden layer: 30 neurons, ReLU activation function
 o	Output layer: 1 neuron, Sigmoid activation function
 
 These parameters were chosen to provide sufficient capacity for the model to learn complex patterns in the data while avoiding overfitting.
+![image](https://github.com/user-attachments/assets/563b5183-94ce-4921-9da8-3e458e4556e6)
 
 
 
@@ -98,6 +100,7 @@ Were you able to achieve the target model performance?
 
 Answer: The target performance of 75% accuracy was not achieved despite various optimization attempts. The highest accuracy obtained was approximately 72.76%.
 
+![image](https://github.com/user-attachments/assets/c915dae3-b458-4fd6-8bcb-cf8e23ef73b5)
 
 
 What steps did you take in your attempts to increase model performance?
