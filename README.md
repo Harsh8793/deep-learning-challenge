@@ -117,7 +117,5 @@ Answer:
 ## Summary
 
 Despite multiple attempts to optimize the model, the target accuracy of 75% was not achieved. The final model reached an accuracy of approximately 72.76%. To further improve performance, other machine learning models, such as Random Forest or Gradient Boosting, could be explored. These models are often effective in handling complex datasets with many categorical variables and may provide better predictive accuracy.
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
